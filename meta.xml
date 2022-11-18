@@ -1,0 +1,7 @@
+<meta>
+    <info author="DogukanSkill" name="Nametags" type="script" version="1.0.0" autostart="true" />
+	<script src="nametags.lua" type="client" cache="false"/>	
+   	 <script src="yetkilinametag.lua" type="server" />
+ 	<export function="klaneklename" type="server"/>
+
+</meta>
